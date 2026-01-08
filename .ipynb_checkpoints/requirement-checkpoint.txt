@@ -1,0 +1,7 @@
+requests
+pydantic
+langchain-openai
+langgraph
+serpapi
+jupyterlab
+python-dotenv
